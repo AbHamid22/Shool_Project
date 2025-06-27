@@ -1,0 +1,36 @@
+[15-Apr-2025 21:26:39 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column 'academy_class_id' at row 1 in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academyadmission.model.php:25
+Stack trace:
+#0 D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academyadmission.model.php(25): mysqli->query()
+#1 D:\webserver\www\student\round62\hamid\School_Project\controllers\Academy\AcademyAdmissionController.php(39): AcademyAdmission->save()
+#2 D:\webserver\www\student\round62\hamid\School_Project\route.php(80): AcademyAdmissionController->save()
+#3 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\main_content.php(2): include('...')
+#4 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#5 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\master.php(8): section()
+#6 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#7 D:\webserver\www\student\round62\hamid\School_Project\home.php(7): section()
+#8 {main}
+  thrown in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academyadmission.model.php on line 25
+[15-Apr-2025 21:29:10 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column 'academy_class_id' at row 1 in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academyadmission.model.php:25
+Stack trace:
+#0 D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academyadmission.model.php(25): mysqli->query()
+#1 D:\webserver\www\student\round62\hamid\School_Project\controllers\Academy\AcademyAdmissionController.php(39): AcademyAdmission->save()
+#2 D:\webserver\www\student\round62\hamid\School_Project\route.php(80): AcademyAdmissionController->save()
+#3 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\main_content.php(2): include('...')
+#4 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#5 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\master.php(8): section()
+#6 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#7 D:\webserver\www\student\round62\hamid\School_Project\home.php(7): section()
+#8 {main}
+  thrown in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academyadmission.model.php on line 25
+[15-Apr-2025 21:29:18 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column 'academy_class_id' at row 1 in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academyadmission.model.php:25
+Stack trace:
+#0 D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academyadmission.model.php(25): mysqli->query()
+#1 D:\webserver\www\student\round62\hamid\School_Project\controllers\Academy\AcademyAdmissionController.php(39): AcademyAdmission->save()
+#2 D:\webserver\www\student\round62\hamid\School_Project\route.php(80): AcademyAdmissionController->save()
+#3 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\main_content.php(2): include('...')
+#4 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#5 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\master.php(8): section()
+#6 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#7 D:\webserver\www\student\round62\hamid\School_Project\home.php(7): section()
+#8 {main}
+  thrown in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academyadmission.model.php on line 25

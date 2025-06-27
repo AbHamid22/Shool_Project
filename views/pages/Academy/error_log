@@ -1,0 +1,112 @@
+[15-Apr-2025 11:10:28 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '31/12/1975' for column 'dob' at row 1 in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academystudent.model.php:31
+Stack trace:
+#0 D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academystudent.model.php(31): mysqli->query()
+#1 D:\webserver\www\student\round62\hamid\School_Project\controllers\Academy\AcademyStudentController.php(55): AcademyStudent->save()
+#2 D:\webserver\www\student\round62\hamid\School_Project\route.php(80): AcademyStudentController->save()
+#3 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\main_content.php(2): include('...')
+#4 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#5 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\master.php(8): section()
+#6 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#7 D:\webserver\www\student\round62\hamid\School_Project\home.php(7): section()
+#8 {main}
+  thrown in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academystudent.model.php on line 31
+[15-Apr-2025 11:11:57 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '31/12/1975' for column 'dob' at row 1 in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academystudent.model.php:31
+Stack trace:
+#0 D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academystudent.model.php(31): mysqli->query()
+#1 D:\webserver\www\student\round62\hamid\School_Project\controllers\Academy\AcademyStudentController.php(55): AcademyStudent->save()
+#2 D:\webserver\www\student\round62\hamid\School_Project\route.php(80): AcademyStudentController->save()
+#3 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\main_content.php(2): include('...')
+#4 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#5 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\master.php(8): section()
+#6 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#7 D:\webserver\www\student\round62\hamid\School_Project\home.php(7): section()
+#8 {main}
+  thrown in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academystudent.model.php on line 31
+[15-Apr-2025 11:12:27 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '31/12/1975' for column 'dob' at row 1 in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academystudent.model.php:31
+Stack trace:
+#0 D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academystudent.model.php(31): mysqli->query()
+#1 D:\webserver\www\student\round62\hamid\School_Project\controllers\Academy\AcademyStudentController.php(55): AcademyStudent->save()
+#2 D:\webserver\www\student\round62\hamid\School_Project\route.php(80): AcademyStudentController->save()
+#3 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\main_content.php(2): include('...')
+#4 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#5 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\master.php(8): section()
+#6 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#7 D:\webserver\www\student\round62\hamid\School_Project\home.php(7): section()
+#8 {main}
+  thrown in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academystudent.model.php on line 31
+[15-Apr-2025 11:15:01 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '31/12/1975' for column 'dob' at row 1 in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academystudent.model.php:31
+Stack trace:
+#0 D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academystudent.model.php(31): mysqli->query()
+#1 D:\webserver\www\student\round62\hamid\School_Project\controllers\Academy\AcademyStudentController.php(55): AcademyStudent->save()
+#2 D:\webserver\www\student\round62\hamid\School_Project\route.php(80): AcademyStudentController->save()
+#3 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\main_content.php(2): include('...')
+#4 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#5 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\master.php(8): section()
+#6 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#7 D:\webserver\www\student\round62\hamid\School_Project\home.php(7): section()
+#8 {main}
+  thrown in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academystudent.model.php on line 31
+[15-Apr-2025 11:16:08 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '31/12/1975' for column 'dob' at row 1 in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academystudent.model.php:31
+Stack trace:
+#0 D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academystudent.model.php(31): mysqli->query()
+#1 D:\webserver\www\student\round62\hamid\School_Project\controllers\Academy\AcademyStudentController.php(55): AcademyStudent->save()
+#2 D:\webserver\www\student\round62\hamid\School_Project\route.php(80): AcademyStudentController->save()
+#3 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\main_content.php(2): include('...')
+#4 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#5 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\master.php(8): section()
+#6 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#7 D:\webserver\www\student\round62\hamid\School_Project\home.php(7): section()
+#8 {main}
+  thrown in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academystudent.model.php on line 31
+[15-Apr-2025 11:23:58 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '31/12/2000' for column 'dob' at row 1 in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academystudent.model.php:31
+Stack trace:
+#0 D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academystudent.model.php(31): mysqli->query()
+#1 D:\webserver\www\student\round62\hamid\School_Project\controllers\Academy\AcademyStudentController.php(55): AcademyStudent->save()
+#2 D:\webserver\www\student\round62\hamid\School_Project\route.php(80): AcademyStudentController->save()
+#3 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\main_content.php(2): include('...')
+#4 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#5 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\master.php(8): section()
+#6 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#7 D:\webserver\www\student\round62\hamid\School_Project\home.php(7): section()
+#8 {main}
+  thrown in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academystudent.model.php on line 31
+[15-Apr-2025 20:41:45 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'a.academy_class_id' in 'where clause' in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academyadmission.model.php:118
+Stack trace:
+#0 D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academyadmission.model.php(118): mysqli->query()
+#1 D:\webserver\www\student\round62\hamid\School_Project\views\pages\Academy\academyadmission\index.php(8): AcademyAdmission::html_table()
+#2 D:\webserver\www\student\round62\hamid\School_Project\core.php(42): include_once('...')
+#3 D:\webserver\www\student\round62\hamid\School_Project\controllers\Academy\AcademyAdmissionController.php(7): Controller->view()
+#4 D:\webserver\www\student\round62\hamid\School_Project\route.php(94): AcademyAdmissionController->index()
+#5 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\main_content.php(2): include('...')
+#6 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#7 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\master.php(8): section()
+#8 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#9 D:\webserver\www\student\round62\hamid\School_Project\home.php(7): section()
+#10 {main}
+  thrown in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academyadmission.model.php on line 118
+[15-Apr-2025 20:41:55 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'a.academy_class_id' in 'where clause' in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academyadmission.model.php:118
+Stack trace:
+#0 D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academyadmission.model.php(118): mysqli->query()
+#1 D:\webserver\www\student\round62\hamid\School_Project\views\pages\Academy\academyadmission\index.php(8): AcademyAdmission::html_table()
+#2 D:\webserver\www\student\round62\hamid\School_Project\core.php(42): include_once('...')
+#3 D:\webserver\www\student\round62\hamid\School_Project\controllers\Academy\AcademyAdmissionController.php(7): Controller->view()
+#4 D:\webserver\www\student\round62\hamid\School_Project\route.php(94): AcademyAdmissionController->index()
+#5 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\main_content.php(2): include('...')
+#6 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#7 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\master.php(8): section()
+#8 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#9 D:\webserver\www\student\round62\hamid\School_Project\home.php(7): section()
+#10 {main}
+  thrown in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academyadmission.model.php on line 118
+[15-Apr-2025 20:53:52 Asia/Dhaka] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column 'academy_class_id' at row 1 in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academyadmission.model.php:25
+Stack trace:
+#0 D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academyadmission.model.php(25): mysqli->query()
+#1 D:\webserver\www\student\round62\hamid\School_Project\controllers\Academy\AcademyAdmissionController.php(39): AcademyAdmission->save()
+#2 D:\webserver\www\student\round62\hamid\School_Project\route.php(80): AcademyAdmissionController->save()
+#3 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\main_content.php(2): include('...')
+#4 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#5 D:\webserver\www\student\round62\hamid\School_Project\views\layouts\schooladmin\master.php(8): section()
+#6 D:\webserver\www\student\round62\hamid\School_Project\helpers\route.helper.php(92): include_once('...')
+#7 D:\webserver\www\student\round62\hamid\School_Project\home.php(7): section()
+#8 {main}
+  thrown in D:\webserver\www\student\round62\hamid\School_Project\models\Academy\academyadmission.model.php on line 25

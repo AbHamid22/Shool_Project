@@ -1,0 +1,1 @@
+<a href="<?=$base_url?>/<?=$arg["route"]?>" class="<?=$arg["class"]?>"><?=$arg["text"]?></a>

@@ -1,0 +1,1 @@
+<form class='form' action='<?=$base_url?>/<?=$arg["route"]?>' method='post' enctype='multipart/form-data'>
