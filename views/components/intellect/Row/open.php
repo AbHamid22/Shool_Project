@@ -1,1 +1,0 @@
-<div class="row g-<?=$arg["g"]?> mb-3">  
